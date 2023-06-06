@@ -1,0 +1,1 @@
+LOG_LEVEL=WARN cargo run -- ./samples/log_level.toml
